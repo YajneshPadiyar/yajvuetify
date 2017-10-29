@@ -37,6 +37,13 @@ export default [
     component: () => import('@/pages/Categolue/Index'),
   },
 
+  // Customer
+  {
+    path: '/customer',
+    name: 'customer.index',
+    component: () => import('@/pages/Customer/Index'),
+  },
+
   // Login
   {
     path: '/login',

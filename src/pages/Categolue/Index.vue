@@ -32,7 +32,7 @@
                      <v-icon dark>add</v-icon>
                   </v-badge>
                  </v-btn>
-                 <v-btn fab small dark color="red" @click="item.count--;catCount--" :disabled="item.count<1">
+                 <v-btn fab small dark color="red" @click="item.count--;cartCount--" :disabled="item.count<1">
                      <v-icon dark>remove</v-icon>
                  </v-btn>
                  <v-btn flat color="indigo">Explore</v-btn>

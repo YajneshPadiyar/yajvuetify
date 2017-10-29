@@ -86,7 +86,7 @@ export default {
           { title: 'Categolue', icon: 'view_list', router: '/categolue' },
           { title: 'Admin', icon: 'settings_applications', router: '/account' },
           { title: 'Shop Now', icon: 'add_shopping_cart', router: '/account' },
-          { title: 'Customer', icon: 'account_box', router: '/account' },
+          { title: 'Customer', icon: 'account_box', router: '/customer' },
       ],
     };
   },
